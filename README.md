@@ -7,5 +7,5 @@ Monsters name can be searched using the Search Component.
 2. Card-list
 3. Search-box
 
-The app is pushed and deployed to Github Pages on the below link -
+The app is pushed and deployed to Github Pages and can be accessed at -
 https://thebugdr0id.github.io/monsters-rolodex-react-app/
